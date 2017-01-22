@@ -37,6 +37,11 @@ body {
     border: 1px #cecece solid;
 }
 
+.editor-name {
+    font-size: 18px;
+    color: #777;
+}
+
 .scrollable-menu {
     height: auto;
     max-height: 200px;
